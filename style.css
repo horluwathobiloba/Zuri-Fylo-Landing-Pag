@@ -273,10 +273,11 @@ body{
 }
 
 .lower-box2 button:hover{
-    -webkit-transform: scale(1.1);
-    transform: scale(1.1);
-    border-radius: 5px;
+    background-color: rgb(8, 132, 240);
+}
 
+.lower-box2 button:active{
+    background-color: rgb(4, 107, 198);
 }
 
 /* css for footer section  */
